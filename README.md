@@ -12,7 +12,7 @@
   <a href="https://instagram.com/__c___._c_h_o_w_d_a_r_y">
     <img align="left" alt="Chellarao-Chowdary Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
   </a>
-   <a href="https://facebook.com/chellarao.chowdary">
+   <a href="https://www.facebook.com/profile.php?id=100004703715044">
   <img align="left" alt="Chellarao-Chowdary" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
   </a>
   <a href="https://www.myselfchowdary.me">
