@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**chellarao-chowdary/chellarao-chowdary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ### Available 👇
 <p>
@@ -30,7 +15,7 @@ Here are some ideas to get you started:
    <a href="https://facebook.com/chellarao.chowdary">
   <img align="left" alt="Chellarao-Chowdary" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
   </a>
-  <a href="https://www.myselfchowdary.in">
+  <a href="https://www.myselfchowdary.me">
     <img align="left" alt="Chellarao-Chowdary Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
   </a>
   <a href="https://telegram.dog/unknown_1one">
@@ -56,16 +41,16 @@ religion = "🇮🇳"
 
 ### Skills 👨‍💻
 
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
+<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg">
+<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg">
+<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg">
 <img align="left" alt="Machine Learning" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/probot.svg">
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
+<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg">
 <img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" />
-<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
-<img align="left" alt="React" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/react.svg" />
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
-<img alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
+<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg">
+<img align="left" alt="React" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/react.svg">
+<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg">
+<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg">
 </br>
 </br>
 
